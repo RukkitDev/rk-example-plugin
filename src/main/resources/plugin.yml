@@ -1,0 +1,5 @@
+author: wtbdev
+name: example-plugin
+version: 1.0.0
+apiVersion: ANY
+pluginClass: cn.rukkit.guidance.MainPlugin
